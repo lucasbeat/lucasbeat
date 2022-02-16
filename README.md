@@ -1,6 +1,6 @@
 ### Olá, me chamo Bruno, mas todos me chamam de Lucas. Fique a vontade para ver os meus projetos!
 
-<div>
+<div style="display: inline-flex">
   <a href="https://github.com/lucasbeat">
     <div style="display: inline-flex">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=lucasbeat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
