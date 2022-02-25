@@ -14,6 +14,7 @@
                 <img align="center" alt="lucas-SASS" height="25" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
                 <img align="center" alt="lucas-REACT" height="25" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
                 <img align="center" alt="lucas-MYSQL" height="25" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+                 <img align="center" alt="lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   #### Contato:
